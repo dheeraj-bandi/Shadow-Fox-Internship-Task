@@ -46,8 +46,8 @@ Where:
 
 ## 📄 Files Included:
 
-- `Advanced_Task1_Cricket_Fielding_Analysis.xlsx`: Contains fielding data and performance scores.
-- `Final_Report_ShadowFox.pdf`: Internship report following the official sample format.
+- `IPL ANALYSIS.XLSX`: Contains fielding data and performance scores.
+- `Report`: Internship report following the official sample format.
 - `README.md`: This file summarizing the task and what was done.
 
 ---
